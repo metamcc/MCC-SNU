@@ -16,3 +16,6 @@
 네트워크 구성: 네트워크 참여원 또는 참여단위 간의 교류정도를 정의하여 수치화하고 이를 가중치로 갖는 네트워크 구성을 기본으로 한다. 구성된 네트워크는 combinatorial Laplacian이라는 행렬로 정리하여 네트워크 분석에 활용한다.  
 
 집중도: Combinatorial Laplacian으로부터 참여원간의 유효저항(effective resistance)을  도출하여 이를 기반으로information centrality를 계산한다. 다른 집중도와의 차이를 통계적 방법으로 비교하고 네트워크 참여원에 부여될 여러 집중도의 의미를 파악한다.  
+
+
+<img width="1148" alt="image" src="https://user-images.githubusercontent.com/109775055/215021017-102dbfe6-a570-4a1a-a597-1129038b7479.png">
