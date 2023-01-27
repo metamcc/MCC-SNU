@@ -1,0 +1,8 @@
+1.HR_pace 프로젝트 참여도_2015 파일에 오류있음
+2.Project 기간 구분할 필요 있음
+3 HR_pace 프로젝트 참여도_2014 파일 없음
+4.prst_emp_id 빈칸?
+5.dact_star/prst_tstar_cnt 숫자 매칭 안되는 경우????
+
+
+
